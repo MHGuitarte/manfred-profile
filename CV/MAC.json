@@ -1,0 +1,118 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Manuel",
+      "surnames": "Hurtado Guitarte",
+      "title": "Fullstack Web Developer",
+      "description": "Amante del desarrollo y apasionado de los retos. Aprender cosas nuevas es mi forma de vida.",
+      "avatar": {
+        "alt": "prof-pic.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/24/9963ba93-da97-430c-9061-350f061b2a1a_prof-pic.jpeg"
+      },
+      "location": {
+        "notes": "Jerez de la Frontera, Cádiz"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/MHGuitarte"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mh-guitarte/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nuxt.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mh-guitarte/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Nuxt.js",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
