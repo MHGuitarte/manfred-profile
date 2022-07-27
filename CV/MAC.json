@@ -29,6 +29,46 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Aktios Factory CDZ",
+          "image": {
+            "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/1896292f-09c4-4be2-b805-ff7787dab917_logo.svg"
+          },
+          "URL": "https://www.aktios.com/"
+        },
+        "roles": [
+          {
+            "name": "Junior FullStack Developer",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Durante este periodo de trabajo he participado en el desarrollo de sitio e-commerce para marca nacional de joyería, desarrollado en Wordpress con WooCommerce. Además, he participado en el desarrollo de framework para e-commerce basado en JavaEE y Angular."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
