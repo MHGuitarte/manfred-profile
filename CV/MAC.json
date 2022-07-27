@@ -206,6 +206,70 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS Desarrollo de Aplicaciones Web",
+        "startDate": "2018-09-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "IES Mar de Cádiz",
+          "description": "Durante esta etapa de estudio asenté las bases que había aprendido por mi cuenta sobre el desarrollo web y adquirí nuevos conocimientos, tanto a nivel de desarrollo como de análisis y buenas prácticas. Aprendí nuevas tecnologías muy útiles que no habría aprendido por mi cuenta, ya fuera por complejidad o falta de interés en las mismas.\n\nTerminé el grado superior en 3 años a causa del COVID.",
+          "URL": "http://www.ies-mardecadiz.com/",
+          "image": {
+            "alt": "Logotipos JA+ME+FSE_2f+IES_H.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/507493d1-e928-4475-8250-cc5d45973518_logotipos-jamefse_2f.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "WebSockets",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
