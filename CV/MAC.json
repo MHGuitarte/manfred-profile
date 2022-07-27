@@ -209,6 +209,43 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollo de aplicaciones móviles con Android Studio",
+        "startDate": "2018-03-01",
+        "institution": {
+          "name": "Didact1",
+          "description": "Durante este periodo formativo aprendí a usar varias de las tecnologías y lenguajes que hoy en día manejo en mi puesto de trabajo (Java, XML, gestión de bases de datos, GIT, etc). Esta etapa supuso el cimiento de mi carrera profesional hoy en día.",
+          "URL": "http://www.didact.es/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Gradle",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "CFGS Desarrollo de Aplicaciones Web",
