@@ -36,6 +36,42 @@
           "name": "Aktios Factory CDZ",
           "image": {
             "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/144fe891-5cc3-4fc5-b36b-1f70ef78ced4_logo.svg"
+          },
+          "URL": "https://www.aktios.com/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Mid Full Stack",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Durante este periodo he participado en un proyecto Frontend para una importante marca de joyería, usando Vue.js con Nuxt.js 2."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aktios Factory CDZ",
+          "image": {
+            "alt": "logo.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/1896292f-09c4-4be2-b805-ff7787dab917_logo.svg"
           },
           "URL": "https://www.aktios.com/"
