@@ -142,6 +142,28 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "mhgdev (web personal)",
+          "description": "Aún en construcción, quiero que esta web sea mi espacio personal, mi portfolio donde pueda expresarme y publicar mis otros proyectos y contenido.",
+          "URL": "https://mhgdev.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Nuxt.js",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
