@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/24/9963ba93-da97-430c-9061-350f061b2a1a_prof-pic.jpeg"
       },
       "location": {
-        "notes": "Jerez de la Frontera, Cádiz"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Jerez de la Frontera",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -169,10 +172,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -184,25 +189,25 @@
       },
       {
         "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Nuxt.js",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Vuex",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
           "type": "technology"
         }
       }
@@ -351,7 +356,12 @@
           "name": "Spring Boot",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
