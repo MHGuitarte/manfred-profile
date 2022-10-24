@@ -331,6 +331,10 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
           "name": "Nuxt.js",
           "type": "technology"
         },
@@ -346,6 +350,10 @@
       "discardedCompetences": [
         {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
           "type": "technology"
         },
         {
