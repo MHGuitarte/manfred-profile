@@ -91,28 +91,6 @@
           }
         ]
       }
-    ],
-    "projects": [
-      {
-        "details": {
-          "name": "mhgdev (web personal)",
-          "description": "Aún en construcción, quiero que esta web sea mi espacio personal, mi portfolio donde pueda expresarme y publicar mis otros proyectos y contenido.",
-          "URL": "https://mhgdev.com/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-01-01",
-            "competences": [
-              {
-                "name": "Nuxt.js",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
   "knowledge": {
@@ -429,11 +407,6 @@
       }
     ],
     "desiredJobDescription": "Me gustaría un puesto en el que pudiera desarrollarme cada día y aprender constantemente. Un espacio en el que el trabajo en equipo sea gratificante para todos y donde todas las opiniones y experiencias sean tenidas en cuenta.",
-    "goodPractices": "Solid, YAGNI, KISS",
-    "projects": [
-      {
-        "name": "mhgdev (web personal)"
-      }
-    ]
+    "goodPractices": "Solid, YAGNI, KISS"
   }
 }
