@@ -34,7 +34,7 @@
             "startDate": "2023-02-01",
             "challenges": [
               {
-                "description": "Experiencia en varios proyectos frontend en Vue 3, haciendo uso de librerías como Vite, Vitest, scss y otras librerías estándar de desarrollo front."
+                "description": "Experiencia en varios proyectos frontend en Vue 3, haciendo uso de librerías como Vite, Vitest, scss y otras librerías estándar de desarrollo front. Entre mis responsabilidades se encuentran:\n\n- Desarrollo y ejecución de propuestas técnicas y de usuario.\n- Revisión de código al resto del equipo.\n- Mantenimiento de los proyectos ya existentes.\n- Creación de nuevos proyectos técnicos.\n\nComo tecnologías principales en las que he adquirido experiencia, se encuentran:\n- Vue 3\n- Pinia\n- Typescript\n- Websocket\n- Gestión de gráficas con chart.js\n- Gestión y creación de PDFs mediante pdfjs • Playwright\n- Nociones de arquitectura hexagonal"
               }
             ]
           }
