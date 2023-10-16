@@ -65,6 +65,29 @@
       },
       {
         "organization": {
+          "name": "Therapyside",
+          "URL": "https://www.therapyside.com/es-es"
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Participo activamente en el desarrollo de los proyectos relacionados con Therapyside, adquiriendo experiencia en:\n\n- Desarrollo y ejecución de propuestas técnicas y de usuario.\n- Revisión de código al resto del equipo\n- Mantenimiento de los proyectos ya existentes.\n- Creación de nuevos proyectos técnicos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Aktios Factory CDZ",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/144fe891-5cc3-4fc5-b36b-1f70ef78ced4_logo.svg",
