@@ -37,6 +37,7 @@
           {
             "name": "Tech Lead",
             "startDate": "2022-04-01",
+            "finishDate": "2023-02-01",
             "challenges": [
               {
                 "description": "Entre mis responsabilidades se encuentran: definir la arquitectura del proyecto en el que me encuentro; ayudar a definir los requisitos funcionales del proyecto; redacción técnica de las distintas tareas a realizar; coordinar al equipo de desarrollo y apoyarlo técnicamente en lo que necesite.\n\nLidero un equipo de 3-4 personas variables, coordinando la parte funcional del proyecto con el desarrollo. Trabajamos con un proyecto heredado llamado Masterferry, para el cual he conseguido defender soluciones de arquitectura que se han adoptado debido a las ventajas que ofrecen en costes y esfuerzo.\n\nAunque el proyecto es heredado, hemos optado por reiniciarlo en una versión 2.0 con esta nueva solución de arquitectura, aprendiendo de todo lo que hemos observado y analizado en la versión heredada."
