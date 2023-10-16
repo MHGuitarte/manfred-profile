@@ -407,6 +407,6 @@
       }
     ],
     "desiredJobDescription": "Me gustaría un puesto en el que pudiera desarrollarme cada día y aprender constantemente. Un espacio en el que el trabajo en equipo sea gratificante para todos y donde todas las opiniones y experiencias sean tenidas en cuenta.",
-    "goodPractices": "Solid, YAGNI, KISS"
+    "goodPractices": "Estoy acostumbrado a trabajar tanto con KANBAN como con SCRUM, y me gusta bastante trabajar con cualquiera de ellos, siempre en base a las necesidades del proyecto.\n\nEn cuanto a principios de desarrollo, me guío principalmente por KISS y YAGNI, y cuando puedo, SOLID.\n\nEn cuanto a prácticas de testing, últimamente he querido fortalecerme en esta área, ya que en los proyectos en los que he trabajado apenas he tenido oportunidad de implementar test hasta hace poco. No obstante, intento mantener el código lo más limpio posible de cara a mis compañeros y sobre todo, a mí mismo."
   }
 }
