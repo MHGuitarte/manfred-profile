@@ -11,26 +11,16 @@
       "title": "Fullstack Web Developer",
       "description": "Amante del desarrollo y apasionado de los retos. Aprender cosas nuevas es mi forma de vida.",
       "avatar": {
-        "alt": "prof-pic.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/24/9963ba93-da97-430c-9061-350f061b2a1a_prof-pic.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/24/9963ba93-da97-430c-9061-350f061b2a1a_prof-pic.jpeg",
+        "alt": "prof-pic.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJn6NESOjGDQ0R6v_Q8_U-rG0)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Jerez de la Frontera",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Jerez de la Frontera"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/MHGuitarte"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/mh-guitarte/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -38,8 +28,8 @@
         "organization": {
           "name": "Aktios Factory CDZ",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/e31f33b9-bd97-4ecd-8178-07cb46b0295b_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/e31f33b9-bd97-4ecd-8178-07cb46b0295b_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://www.aktios.com/"
         },
@@ -77,8 +67,8 @@
         "organization": {
           "name": "Aktios Factory CDZ",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/144fe891-5cc3-4fc5-b36b-1f70ef78ced4_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/144fe891-5cc3-4fc5-b36b-1f70ef78ced4_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://www.aktios.com/"
         },
@@ -113,8 +103,8 @@
         "organization": {
           "name": "Aktios Factory CDZ",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/1896292f-09c4-4be2-b805-ff7787dab917_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/1896292f-09c4-4be2-b805-ff7787dab917_logo.svg",
+            "alt": "logo.svg"
           },
           "URL": "https://www.aktios.com/"
         },
@@ -172,18 +162,66 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Vue",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -195,13 +233,19 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -218,16 +262,16 @@
         "degreeAchieved": true,
         "name": "CFGS Desarrollo de Aplicaciones Web",
         "startDate": "2018-09-01",
-        "finishDate": "2021-06-01",
         "institution": {
           "name": "IES Mar de Cádiz",
           "description": "Durante esta etapa de estudio asenté las bases que había aprendido por mi cuenta sobre el desarrollo web y adquirí nuevos conocimientos, tanto a nivel de desarrollo como de análisis y buenas prácticas. Aprendí nuevas tecnologías muy útiles que no habría aprendido por mi cuenta, ya fuera por complejidad o falta de interés en las mismas.\n\nTerminé el grado superior en 3 años a causa del COVID.",
           "URL": "http://www.ies-mardecadiz.com/",
           "image": {
-            "alt": "Logotipos JA+ME+FSE_2f+IES_H.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/507493d1-e928-4475-8250-cc5d45973518_logotipos-jamefse_2f.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/507493d1-e928-4475-8250-cc5d45973518_logotipos-jamefse_2f.png",
+            "alt": "Logotipos JA+ME+FSE_2f+IES_H.png"
           }
         },
+        "finishDate": "2021-06-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -280,12 +324,12 @@
         "degreeAchieved": true,
         "name": "Desarrollo de aplicaciones móviles con Android Studio",
         "startDate": "2018-03-01",
-        "finishDate": "2019-03-01",
         "institution": {
           "name": "Didact1",
           "description": "Durante este periodo formativo aprendí a usar varias de las tecnologías y lenguajes que hoy en día manejo en mi puesto de trabajo (Java, XML, gestión de bases de datos, GIT, etc). Esta etapa supuso el cimiento de mi carrera profesional hoy en día.",
           "URL": "http://www.didact.es/"
         },
+        "finishDate": "2019-03-01",
         "linkedCompetences": [
           {
             "name": "Android",
@@ -313,14 +357,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/mh-guitarte/"
+          "URL": "https://www.linkedin.com/in/mh-guitarte/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/MHGuitarte",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "guimhur@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "606947657",
+          "countryCode": "+34"
         }
       ]
     },
@@ -371,5 +448,36 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "ES6",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Nuxt.js",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría un puesto en el que pudiera desarrollarme cada día y aprender constantemente. Un espacio en el que el trabajo en equipo sea gratificante para todos y donde todas las opiniones y experiencias sean tenidas en cuenta.",
+    "goodPractices": "Solid, YAGNI, KISS",
+    "projects": [
+      {
+        "name": "mhgdev (web personal)"
+      }
+    ]
   }
 }
