@@ -8,8 +8,8 @@
     "profile": {
       "name": "Manuel",
       "surnames": "Hurtado Guitarte",
-      "title": "Fullstack Web Developer",
-      "description": "Amante del desarrollo y apasionado de los retos. Aprender cosas nuevas es mi forma de vida.",
+      "title": "Web Developer",
+      "description": "Desarrollador web fullstack. Masterizando JS/TS como lenguaje principal de trabajo. En constante aprendizaje y evolución.\n\nMe encanta investigar y aprender de la comunidad tecnológica que rodea a la web. En el futuro, mi intención es ser capaz de impulsar a otros en el camino del desarrollo web y devolverle a la comunidad todo lo que me ha dado con aportaciones.\n\nSiempre estoy en busca de retos, ya que la realización que supone llegar a una meta difícil me empuja a mis límites y a mejorar personal y profesionalmente.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/24/9963ba93-da97-430c-9061-350f061b2a1a_prof-pic.jpeg",
         "alt": "prof-pic.jpeg"
@@ -26,12 +26,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Therapyside",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/16/3fd44533-68e0-432d-a3ed-5e02a3018164_icon-256x256.png",
-            "alt": "icon-256X256.png"
-          },
-          "URL": "https://www.therapyside.com/es-es"
+          "name": "Therapyside"
         },
         "roles": [
           {
@@ -39,13 +34,7 @@
             "startDate": "2023-02-01",
             "challenges": [
               {
-                "description": "Participo activamente en el desarrollo de los proyectos relacionados con Therapyside, adquiriendo experiencia en:\n\n- Desarrollo y ejecución de propuestas técnicas y de usuario.\n- Revisión de código al resto del equipo\n- Mantenimiento de los proyectos ya existentes.\n- Creación de nuevos proyectos técnicos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Vue",
-                "type": "technology"
+                "description": "Experiencia en varios proyectos frontend en Vue 3, haciendo uso de librerías como Vite, Vitest, scss y otras librerías estándar de desarrollo front."
               }
             ]
           }
@@ -53,111 +42,50 @@
       },
       {
         "organization": {
-          "name": "Aktios Factory CDZ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/e31f33b9-bd97-4ecd-8178-07cb46b0295b_logo.svg",
-            "alt": "logo.svg"
-          },
-          "URL": "https://www.aktios.com/"
+          "name": "Aktios Factory"
         },
         "roles": [
           {
-            "name": "Tech Lead",
-            "startDate": "2022-04-01",
-            "finishDate": "2023-02-01",
-            "challenges": [
-              {
-                "description": "Entre mis responsabilidades se encuentran: definir la arquitectura del proyecto en el que me encuentro; ayudar a definir los requisitos funcionales del proyecto; redacción técnica de las distintas tareas a realizar; coordinar al equipo de desarrollo y apoyarlo técnicamente en lo que necesite.\n\nLidero un equipo de 3-4 personas variables, coordinando la parte funcional del proyecto con el desarrollo. Trabajamos con un proyecto heredado llamado Masterferry, para el cual he conseguido defender soluciones de arquitectura que se han adoptado debido a las ventajas que ofrecen en costes y esfuerzo.\n\nAunque el proyecto es heredado, hemos optado por reiniciarlo en una versión 2.0 con esta nueva solución de arquitectura, aprendiendo de todo lo que hemos observado y analizado en la versión heredada."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CMS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Aktios Factory CDZ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/144fe891-5cc3-4fc5-b36b-1f70ef78ced4_logo.svg",
-            "alt": "logo.svg"
-          },
-          "URL": "https://www.aktios.com/"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador Mid Full Stack",
-            "startDate": "2021-03-01",
-            "finishDate": "2022-04-01",
-            "challenges": [
-              {
-                "description": "Durante este periodo he participado en un proyecto Frontend para una importante marca de joyería, usando Vue.js con Nuxt.js 2."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Nuxt.js",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Aktios Factory CDZ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/27/1896292f-09c4-4be2-b805-ff7787dab917_logo.svg",
-            "alt": "logo.svg"
-          },
-          "URL": "https://www.aktios.com/"
-        },
-        "roles": [
-          {
-            "name": "Junior FullStack Developer",
+            "name": "Fullstack Developer",
             "startDate": "2020-07-01",
-            "finishDate": "2021-03-01",
+            "finishDate": "2023-02-28",
             "challenges": [
               {
-                "description": "Durante este periodo de trabajo he participado en el desarrollo de sitio e-commerce para marca nacional de joyería, desarrollado en Wordpress con WooCommerce. Además, he participado en el desarrollo de framework para e-commerce basado en JavaEE y Angular."
+                "description": "Experiencia de 3 meses en tecnologías Wordpress y Woocommerce para el desarrollo de un e-commerce para marca nacional de joyería.\n\nExperiencia de 6 meses en desarrollo de framework e-commerce basado en JavaEE y Angular 6.\n\nExperiencia de 1 año en proyecto Frontend para importante marca de joyería, usando Vue.js con Nuxt.js 2.\n\nDesde Abril de 2022 trabajo como líder de un equipo de 4 personas para un servicio propio de la empresa. En este puesto, mis responsabilidades son:\n\n- Definir la arquitectura del proyecto en el que me encuentro.\n- Ayudar a definir los requisitos funcionales del proyecto.\n- Redacción técnica de las distintas tareas a realizar.\n- Coordinar al equipo de desarrollo y apoyarlo técnicamente en lo que necesite.\n\nEste proyecto se está desarrollando haciendo uso de Directus (Vue + express) para el Backend y backoffice y Next.js y React para el Frontend."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mesa12"
+        },
+        "roles": [
+          {
+            "name": "Redactor",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
               {
-                "name": "Angular2+",
-                "type": "technology"
-              },
+                "description": "Redactor y Community Manager para la empresa de marketing digital Mesa12."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Tuexperto.com"
+        },
+        "roles": [
+          {
+            "name": "Redactor",
+            "startDate": "2017-11-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "Redactor de noticias para el portal web de tecnología tuexperto.com"
               }
             ]
           }
