@@ -66,6 +66,10 @@
       {
         "organization": {
           "name": "Therapyside",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/16/3fd44533-68e0-432d-a3ed-5e02a3018164_icon-256x256.png",
+            "alt": "icon-256X256.png"
+          },
           "URL": "https://www.therapyside.com/es-es"
         },
         "roles": [
