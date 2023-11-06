@@ -20,7 +20,17 @@
         "region": "Andalucía",
         "municipality": "Jerez de la Frontera"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mh-guitarte/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/MHGuitarte"
+      }
+    ]
   },
   "experience": {
     "jobs": [
